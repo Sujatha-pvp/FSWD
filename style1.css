@@ -1,0 +1,30 @@
+p{
+    text-align:center;
+    font-size:42px;
+    color:rgb(129, 11, 247);
+    margin-top:5%;
+}
+#div1{
+    width:40%;
+    height:50%;
+    float:left;
+    margin-left:5%;
+}
+#div2{
+    width:40%;
+    height:50%;
+    float:right;
+    margin-right:5%;
+    
+}
+
+#button{
+    width:30%;
+    height:10%;
+    background-color: rgb(44, 139, 248);
+
+}
+a{
+    font-size:20px;
+    color: rgb(131, 131, 250);
+}

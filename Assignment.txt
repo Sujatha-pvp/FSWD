@@ -1,0 +1,15 @@
+Name   -- Bold
+EmailID -- Bold 
+Photo 
+Objective
+Educational Qualification -- Table 
+Achievements -- listed
+Personal Info
+ -Guardian Name
+ - DOB
+ - Gender
+ - Languages Known
+ 
+ NotePad Save
+ FileName : Filename.html
+ Save As Type : All Files

@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <title>Login Form</title>
+        <style>
+            #left{
+                width :50%;
+                height : 50%
+                float:left;
+                background-color:red;
+            }
+            #right{
+                height : 70%
+                width :50%;
+                float:right;
+                background-color:blue;
+                background-image: linearGradient;
+                
+            }
+                #img{
+                    width :50%;
+                    height :100%;
+                }
+                #form{
+                    margin-top: 7%;
+                    margin-left: 7%;
+                }
+                #iput
+                {
+                   margin-top: 5%;
+                   margin-left: 10%;
+                }
+                #label,input[type=submit],input[type=reset]{
+                    font-family: 'Times New Roman', Times, serif;
+            }
+                #top,#bottom
+                {
+                    height: 10%;
+                    background-color: bisque;
+                }
+                #bottom
+                {margin-top: 21%;}
+
+        </style>
+    </head>
+    <body style="background-color: rgb(243, 247, 243);margin:10% 5% 10% 5%;">
+   <div id="top"></div>
+   <div id="bottom"></div>
+        <div id="left">
+        <img src="logo.jpg"/>
+    </div>
+    <div id="right">
+        <form>
+            <label>UserName</label>
+            <input type="text" name="Username"/><br>
+            <label>Password</label>
+            <input type="text" name="Password"/><br>
+            <input type="submit" name="submit"/>
+            <input type="Reset" name="Reset"/>
+        </form>
+    </div>
+    </body>
+</html>
